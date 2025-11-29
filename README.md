@@ -24,9 +24,9 @@ Este proyecto no fue codificado línea a línea manualmente, sino **arquitectado
 Para lograr un resultado de calidad profesional en un solo intento, apliqué técnicas avanzadas de **Ingeniería de Contexto**:
 
 1.  **Análisis Funcional:** Desglose del libro original en requerimientos técnicos y "User Stories".
-2.  [cite_start]**Context Engineering (R-C-T-C-E):** Diseño de un *Prompt Maestro* estructurado en Rol, Contexto, Tarea, Restricciones y Ejemplo[cite: 132].
-3.  [cite_start]**Constraint Prompting:** Aplicación de restricciones férreas sobre el stack tecnológico (Vite, Tailwind) y el idioma (ES-España) para evitar alucinaciones de la IA[cite: 212].
-4.  [cite_start]**Vibe Coding:** Traducción de sensaciones abstractas (calma, naturaleza, enfoque) a directrices de UI/UX concretas para el modelo[cite: 188].
+2.  **Context Engineering (R-C-T-C-E):** Diseño de un *Prompt Maestro* estructurado en Rol, Contexto, Tarea, Restricciones y Ejemplo
+3.  **Constraint Prompting:** Aplicación de restricciones férreas sobre el stack tecnológico (Vite, Tailwind) y el idioma (ES-España) para evitar alucinaciones de la IA.
+4.  **Vibe Coding:** Traducción de sensaciones abstractas (calma, naturaleza, enfoque) a directrices de UI/UX concretas para el modelo
 
 ---
 
@@ -41,7 +41,7 @@ Este repositorio sirve como evidencia de competencias transversales en el desarr
 * **Git & Despliegue:** Gestión de versiones y distribución de aplicaciones SPA.
 
 ### 💡 Habilidades Blandas (Soft Skills)
-* [cite_start]**Traducción de Conceptos:** Capacidad para convertir literatura no técnica (un libro de psicología) en una especificación funcional de software[cite: 131].
+* **Traducción de Conceptos:** Capacidad para convertir literatura no técnica (un libro de psicología) en una especificación funcional de software.
 * **Visión de Producto:** Enfoque en la experiencia de usuario (UX) y la filosofía "Calm Tech" por encima de la complejidad técnica innecesaria.
 * **Gestión de la Atención:** Aplicación de los propios principios de productividad del proyecto en el flujo de trabajo de desarrollo.
 
