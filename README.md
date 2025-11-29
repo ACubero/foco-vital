@@ -61,7 +61,7 @@ Este repositorio sirve como evidencia de competencias transversales en el desarr
 A continuación se muestran capturas de la aplicación funcionando, demostrando la estética minimalista y las funcionalidades clave.
 
 <div align="center">
-  <img src="screenshots/dashboard.png" alt="Pantalla Principal - La Brújula" width="800"/>
+  <img src="screenshots/dashboard_01.png" alt="Pantalla Principal - La Brújula" width="800"/>
   <p><em>El Dashboard principal: "La Brújula" y los 5 Pilares</em></p>
 </div>
 ---
